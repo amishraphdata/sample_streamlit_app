@@ -1,7 +1,7 @@
 import streamlit as st
 from utils.data_utils import get_sample_data
 
-st.title("🚀 Streamlit Git Integration Test App")
+st.title("🚀 Feature Streamlit Git Integration Test App")
 
 st.markdown("""
 Welcome to the **main page** of your Streamlit app!
